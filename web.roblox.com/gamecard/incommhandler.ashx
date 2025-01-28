@@ -1,0 +1,1 @@
+{"successMsg":"You have successfully redeemed your card!", "successSubText":"", "bonusMsg":"", "errorMsg":"",  "balance":"$10.00",  "callback":"(function() { RobloxEventManager.triggerEvent('rbx_evt_card_redemption', { merchant: 'GameStop', cardValue: '10.0'}); }());"}
